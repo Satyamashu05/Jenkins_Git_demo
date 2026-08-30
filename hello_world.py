@@ -1,1 +1,1 @@
-print("Hello World! - Poll Scm")
+print("Hello World! - GitHub hook trigger for GITScm polling")
